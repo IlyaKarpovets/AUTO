@@ -1,0 +1,59 @@
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Pages\pAuth.g.cs
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Pages\pDemo.g.cs
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Pages\pMain.g.cs
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Windows\wStart.g.cs
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto_Content.g.cs
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto_MarkupCompile.cache
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto_MarkupCompile.lref
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\Proj2Auto.exe.config
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\Proj2Auto.exe
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\Proj2Auto.pdb
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Proj2Auto\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\App.baml
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Pages\pAuth.baml
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Pages\pDemo.baml
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Pages\pMain.baml
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Views\Windows\wStart.baml
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.g.resources
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.Properties.Resources.resources
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.csproj.CopyComplete
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.exe
+C:\Users\User\source\repos\Proj2Auto\obj\Debug\Proj2Auto.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\Proj2Auto.exe.config
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\Proj2Auto.exe
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\Proj2Auto.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\EntityFramework.dll
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\EntityFramework.xml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Windows\wStart.g.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Pages\pAuth.g.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Pages\pDemo.g.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Pages\pMain.g.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\App.g.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto_Content.g.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto_MarkupCompile.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto_MarkupCompile.lref
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\App.baml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Windows\wStart.baml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Pages\pAuth.baml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Pages\pDemo.baml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Views\Pages\pMain.baml
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.g.resources
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.Properties.Resources.resources
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.csproj.GenerateResource.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.csproj.CopyComplete
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.exe
+C:\Users\Илья\OneDrive\Рабочий стол\Proj2Auto\obj\Debug\Proj2Auto.pdb
